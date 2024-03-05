@@ -17,6 +17,7 @@ int main()
     {
         status = "bilangan1 lebih besar dari bilangan2";
     }
+    else
     {
         status = "bilangan1 lebih kecil dari bilangan2";
     }
